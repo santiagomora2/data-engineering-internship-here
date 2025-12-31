@@ -40,7 +40,7 @@ The core challenge was to:
 
 ## My Responsibilities
 
-I was responsible for designing and implementing a **serverless data pipeline** that:
+I was responsible for designing and implementing a **data pipeline** that:
 
 - Extracted TNM-related data from an issue-tracking system
 - Normalized and validated heterogeneous fields
