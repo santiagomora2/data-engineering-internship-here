@@ -140,6 +140,7 @@ Beyond the technical work, the internship strengthened my experience in:
 > HERE Governance & Validation Business Unit
 
 📄 Extended feedback available in [`TESTIMONIAL.md`](TESTIMONIAL.md)
+
 ---
 
 ## Final Notes
