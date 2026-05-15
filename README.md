@@ -1,9 +1,9 @@
-# Data Engineering Internship — HERE Technologies
+# Data Engineering Internship - HERE Technologies
 
 **Role:** Data Engineering Intern  
 **Organization:** HERE Technologies (Governance & Validation Business Unit)  
 **Location:** Guadalajara, Mexico  
-**Period:** Oct 2025 – Dec 2025  
+**Period:** Oct 2025 - Dec 2025  
 
 This repository is a **high-level technical description** of the work I completed during my data engineering internship at HERE Technologies.
 
